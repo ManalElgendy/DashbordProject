@@ -1,2 +1,2 @@
-# Git_Cours
+# Git_Course
 project Number One
